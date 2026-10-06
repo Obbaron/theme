@@ -1,0 +1,8 @@
+[catalog]
+id = "gtk3"
+name = "GTK 3"
+category = "system"
+
+[templates.theme]
+input_path = "gtk.css"
+output_path = "$XDG_CONFIG_HOME/gtk-3.0/gtk.css"

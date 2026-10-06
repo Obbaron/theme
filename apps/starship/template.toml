@@ -1,0 +1,8 @@
+[catalog]
+id = "starship"
+name = "Starship"
+category = "system"
+
+[templates.theme]
+input_path = "starship.toml"
+output_path = "$XDG_CONFIG_HOME/starship-theme.toml"

@@ -1,0 +1,8 @@
+[catalog]
+id = "gtk4"
+name = "GTK 4"
+category = "system"
+
+[templates.theme]
+input_path = "gtk.css"
+output_path = "$XDG_CONFIG_HOME/gtk-4.0/gtk.css"

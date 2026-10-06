@@ -1,0 +1,8 @@
+[catalog]
+id = "fastfetch"
+name = "Fastfetch"
+category = "system"
+
+[templates.theme]
+input_path = "colors.json"
+output_path = "$XDG_CONFIG_HOME/fastfetch/theme-colors.json"

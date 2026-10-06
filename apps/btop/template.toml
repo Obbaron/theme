@@ -1,0 +1,8 @@
+[catalog]
+id = "btop"
+name = "btop"
+category = "system"
+
+[templates.theme]
+input_path = "btop.theme"
+output_path = "$XDG_CONFIG_HOME/btop/themes/personal.theme"

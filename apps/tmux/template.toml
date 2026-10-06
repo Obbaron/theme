@@ -1,0 +1,8 @@
+[catalog]
+id = "tmux"
+name = "tmux"
+category = "terminal"
+
+[templates.theme]
+input_path = "theme.conf"
+output_path = "$XDG_CONFIG_HOME/tmux/theme.conf"

@@ -1,0 +1,8 @@
+[catalog]
+id = "hyprland"
+name = "Hyprland"
+category = "compositor"
+
+[templates.theme]
+input_path = "colors.conf"
+output_path = "$XDG_CONFIG_HOME/hypr/generated/colors.conf"

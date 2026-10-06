@@ -1,0 +1,8 @@
+[catalog]
+id = "fzf"
+name = "fzf"
+category = "system"
+
+[templates.theme]
+input_path = "fzf.sh"
+output_path = "$XDG_CONFIG_HOME/fzf/theme.sh"

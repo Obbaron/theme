@@ -1,0 +1,10 @@
+{
+  "primary": "{{ colors.primary }}",
+  "secondary": "{{ colors.secondary }}",
+  "tertiary": "{{ colors.tertiary }}",
+  "background": "{{ colors.background }}",
+  "foreground": "{{ colors.on_background }}",
+  "surface": "{{ colors.surface }}",
+  "outline": "{{ colors.outline }}",
+  "error": "{{ colors.error }}"
+}

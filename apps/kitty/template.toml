@@ -1,0 +1,9 @@
+[catalog]
+id = "kitty"
+name = "Kitty"
+category = "terminal"
+
+[templates.theme]
+input_path = "kitty.conf"
+output_path = "$XDG_CONFIG_HOME/kitty/theme.conf"
+requires_path = "$XDG_CONFIG_HOME/kitty"
